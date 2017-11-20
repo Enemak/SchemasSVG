@@ -1,0 +1,2585 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   id="svg5448"
+   width="1271.3306"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="exemple2.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview899"
+     showgrid="false"
+     showguides="false"
+     fit-margin-top="5"
+     fit-margin-left="5"
+     fit-margin-bottom="5"
+     fit-margin-right="5"
+     inkscape:zoom="0.51508565"
+     inkscape:cx="635.66528"
+     inkscape:cy="520.30182"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g16351" />
+  <defs
+     id="defs5450">
+    <linearGradient
+       id="linearGradient4423">
+      <stop
+         id="stop4425"
+         offset="0"
+         style="stop-color:#ff6600;stop-opacity:1;" />
+      <stop
+         id="stop4427"
+         offset="1"
+         style="stop-color:#ff6600;stop-opacity:0;" />
+    </linearGradient>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutS"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(0.2,0.2)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path3548"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,-8.40408e-4)"
+       r="21.449848"
+       fy="314.35028"
+       fx="329.58322"
+       cy="314.35028"
+       cx="329.58322"
+       id="radialGradient4429"
+       xlink:href="#linearGradient4423" />
+    <radialGradient
+       r="21.449848"
+       fy="314.35028"
+       fx="329.58322"
+       cy="314.35028"
+       cx="329.58322"
+       gradientTransform="translate(0,-8.40408e-4)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient4447"
+       xlink:href="#linearGradient4423" />
+    <radialGradient
+       r="21.449848"
+       fy="314.35028"
+       fx="329.58322"
+       cy="314.35028"
+       cx="329.58322"
+       gradientTransform="translate(0,-8.40408e-4)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient4449"
+       xlink:href="#linearGradient4423" />
+    <radialGradient
+       r="21.449848"
+       fy="314.35028"
+       fx="329.58322"
+       cy="314.35028"
+       cx="329.58322"
+       gradientTransform="translate(0,-8.40408e-4)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient4451"
+       xlink:href="#linearGradient4423" />
+    <radialGradient
+       r="21.449848"
+       fy="314.35028"
+       fx="329.58322"
+       cy="314.35028"
+       cx="329.58322"
+       gradientTransform="translate(0,-8.40408e-4)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient4453"
+       xlink:href="#linearGradient4423" />
+    <radialGradient
+       r="21.449848"
+       fy="314.35028"
+       fx="329.58322"
+       cy="314.35028"
+       cx="329.58322"
+       gradientTransform="translate(0,-8.40408e-4)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient4455"
+       xlink:href="#linearGradient4423" />
+    <radialGradient
+       r="21.449848"
+       fy="314.35028"
+       fx="329.58322"
+       cy="314.35028"
+       cx="329.58322"
+       gradientTransform="translate(0,-8.40408e-4)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient4457"
+       xlink:href="#linearGradient4423" />
+    <radialGradient
+       r="21.449848"
+       fy="314.35028"
+       fx="329.58322"
+       cy="314.35028"
+       cx="329.58322"
+       gradientTransform="translate(0,-8.40408e-4)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient4459"
+       xlink:href="#linearGradient4423" />
+    <radialGradient
+       r="21.449848"
+       fy="314.35028"
+       fx="329.58322"
+       cy="314.35028"
+       cx="329.58322"
+       gradientTransform="translate(0,-8.40408e-4)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient4461"
+       xlink:href="#linearGradient4423" />
+    <radialGradient
+       r="21.449848"
+       fy="314.35028"
+       fx="329.58322"
+       cy="314.35028"
+       cx="329.58322"
+       gradientTransform="translate(0,-8.40408e-4)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient4463"
+       xlink:href="#linearGradient4423" />
+    <radialGradient
+       r="21.449848"
+       fy="314.35028"
+       fx="329.58322"
+       cy="314.35028"
+       cx="329.58322"
+       gradientTransform="translate(0,-8.40408e-4)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient4465"
+       xlink:href="#linearGradient4423" />
+    <radialGradient
+       r="21.449848"
+       fy="314.35028"
+       fx="329.58322"
+       cy="314.35028"
+       cx="329.58322"
+       gradientTransform="translate(0,-8.40408e-4)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient4467"
+       xlink:href="#linearGradient4423" />
+    <radialGradient
+       r="21.449848"
+       fy="314.35028"
+       fx="329.58322"
+       cy="314.35028"
+       cx="329.58322"
+       gradientTransform="translate(0,-8.40408e-4)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient4469"
+       xlink:href="#linearGradient4423" />
+    <radialGradient
+       r="21.449848"
+       fy="314.35028"
+       fx="329.58322"
+       cy="314.35028"
+       cx="329.58322"
+       gradientTransform="translate(0,-8.40408e-4)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient4471"
+       xlink:href="#linearGradient4423" />
+    <radialGradient
+       r="21.449848"
+       fy="314.35028"
+       fx="329.58322"
+       cy="314.35028"
+       cx="329.58322"
+       gradientTransform="translate(0,-8.40408e-4)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient4473"
+       xlink:href="#linearGradient4423" />
+    <radialGradient
+       r="21.449848"
+       fy="314.35028"
+       fx="329.58322"
+       cy="314.35028"
+       cx="329.58322"
+       gradientTransform="translate(0,-8.40408e-4)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient4475"
+       xlink:href="#linearGradient4423" />
+    <radialGradient
+       r="21.449848"
+       fy="314.35028"
+       fx="329.58322"
+       cy="314.35028"
+       cx="329.58322"
+       gradientTransform="translate(0,-8.40408e-4)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient4477"
+       xlink:href="#linearGradient4423" />
+    <radialGradient
+       r="21.449848"
+       fy="314.35028"
+       fx="329.58322"
+       cy="314.35028"
+       cx="329.58322"
+       gradientTransform="translate(0,-8.40408e-4)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient4479"
+       xlink:href="#linearGradient4423" />
+    <radialGradient
+       r="21.449848"
+       fy="314.35028"
+       fx="329.58322"
+       cy="314.35028"
+       cx="329.58322"
+       gradientTransform="translate(0,-8.40408e-4)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient4481"
+       xlink:href="#linearGradient4423" />
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker11344"
+       style="overflow:visible">
+      <path
+         id="path11346"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="scale(0.2,0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata5453">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.54399991;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+     id="rect3251"
+     width="0"
+     height="7.0866141"
+     x="919.17267"
+     y="656.88281"
+     ry="0" />
+  <g
+     style="display:inline"
+     id="g4018"
+     transform="matrix(-2,0,0,-2,1870.7111,1226.0177)" />
+  <g
+     id="g3041"
+     transform="matrix(-0.08400183,-2.0420746,2.0775186,-0.10530349,-1037.1827,1825.5201)">
+    <text
+       transform="scale(0.973857,1.02684)"
+       id="text1501"
+       y="610.16168"
+       x="494.55402"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.7088089px;line-height:125%;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       xml:space="preserve"><tspan
+         y="610.16168"
+         x="494.55402"
+         id="tspan1503" /></text>
+  </g>
+  <rect
+     ry="0"
+     y="639.52454"
+     x="-476.89035"
+     height="7.0866141"
+     width="0"
+     id="rect11662"
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.54399991;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none" />
+  <g
+     transform="matrix(-2,0,0,-2,474.65105,1208.6577)"
+     id="g11710"
+     style="display:inline" />
+  <g
+     transform="translate(-964.62195,-459.39733)"
+     style="display:inline"
+     id="g2705" />
+  <rect
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.54399991;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+     id="rect2724"
+     width="0"
+     height="7.0866141"
+     x="-115.47298"
+     y="86.768585"
+     ry="0" />
+  <g
+     style="display:inline"
+     id="g2736"
+     transform="matrix(-2,0,0,-2,836.06905,655.90767)" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.54330707;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path5985"
+     d="" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:12px;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none"
+     x="-737.80524"
+     y="-397.40555"
+     id="text12449"><tspan
+       id="tspan12451"
+       x="-737.80524"
+       y="-397.40555" /></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:12px;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none"
+     x="-693.25751"
+     y="-278.6116"
+     id="text12475"><tspan
+       id="tspan12477"
+       x="-693.25751"
+       y="-278.6116" /></text>
+  <style
+     id="style353"
+     type="text/css"><![CDATA[
+		.st1 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st2 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]></style>
+  <g
+     style="font-size:12px;overflow:visible;color-interpolation-filters:sRGB;fill:none;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:3"
+     id="g396"
+     transform="matrix(21.685818,0,0,5.0343452,102.49081,740.57078)">
+    <g
+       id="g374">
+      <title
+         id="title355">Barette de terre</title>
+      <g
+         transform="translate(0.125,-0.125)"
+         id="1">
+        <title
+           id="title357">Barette de terre</title>
+        <path
+           id="path359"
+           class="st1"
+           d="M 2.83,24.06 H 0"
+           inkscape:connector-curvature="0"
+           style="stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round" />
+        <path
+           id="path361"
+           class="st1"
+           d="M 2.83,9.89 H 0"
+           inkscape:connector-curvature="0"
+           style="stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round" />
+        <path
+           id="path363"
+           class="st1"
+           d="M 2.83,34.27 V 26.9 h 2.84"
+           inkscape:connector-curvature="0"
+           style="stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round" />
+        <path
+           id="path365"
+           class="st1"
+           d="M 2.83,26.9 H 0"
+           inkscape:connector-curvature="0"
+           style="stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round" />
+        <path
+           id="path367"
+           class="st1"
+           d="M 2.83,7.05 H 0"
+           inkscape:connector-curvature="0"
+           style="stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round" />
+        <path
+           id="path369"
+           class="st1"
+           d="m 2.83,0.25 v 6.8 h 2.84"
+           inkscape:connector-curvature="0"
+           style="stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round" />
+        <path
+           id="path371"
+           class="st1"
+           d="M 5.67,9.89 H 2.83 v 14.17 h 2.84"
+           inkscape:connector-curvature="0"
+           style="stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round" />
+      </g>
+    </g>
+  </g>
+  <style
+     id="style2957"
+     type="text/css"><![CDATA[
+		.st1 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st2 {fill:#000000;font-family:Arial;font-size:0.499992em}
+		.st3 {fill:none}
+		.st4 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st5 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]></style>
+  <g
+     style="font-size:12px;overflow:visible;color-interpolation-filters:sRGB;fill:none;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:3"
+     id="g3035"
+     transform="matrix(3.1341721,0,0,4.1305904,169.71431,325.91813)">
+    <g
+       id="g3000">
+      <title
+         id="title2959">Canalisation placée dans un conduit encastré dans une paroi</title>
+      <g
+         transform="translate(0.198234,-0.36)"
+         id="1-9">
+        <title
+           id="title2961">Canalisation placée dans un conduit encastré dans une paroi</title>
+        <g
+           id="2">
+          <title
+             id="title2963">Canalisation placée dans un conduit encastré dans une paroi</title>
+          <g
+             transform="rotate(-90,10.4882,44.0901)"
+             id="3">
+            <title
+               id="title2965">Canalisation placée dans un conduit encastré dans une paroi</title>
+            <desc
+               id="desc2967">VOB X x Ymm²</desc>
+            <rect
+               id="rect2969"
+               class="st1"
+               height="10.7717"
+               width="53.858299"
+               y="43.806599"
+               x="0"
+               style="fill:none;stroke:none;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round" />
+            <text
+               id="text2971"
+               class="st2"
+               y="50.990002"
+               x="6.5900002"
+               style="font-size:5.99990416px;font-family:Arial;fill:#000000">VOB xx5m²</text>
+          </g>
+          <g
+             transform="rotate(-90,0.28345,49.19245)"
+             id="4">
+            <title
+               id="title2974">Canalisation placée dans un conduit encastré dans une paroi</title>
+            <desc
+               id="desc2976">n</desc>
+            <rect
+               id="rect2978"
+               class="st1"
+               height="4.53543"
+               width="11.3386"
+               y="50.042801"
+               x="0"
+               style="fill:none;stroke:none;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round" />
+            <text
+               id="text2980"
+               class="st2"
+               y="54.110001"
+               x="4"
+               style="font-size:5.99990416px;font-family:Arial;fill:#000000">n</text>
+          </g>
+        </g>
+        <g
+           transform="translate(1.41732)"
+           id="5">
+          <title
+             id="title2984">Canalisation placée dans un conduit encastré dans une paroi</title>
+          <path
+             id="path2986"
+             class="st3"
+             d="m 1.98,6.29 a 1.6311805,1.54 0 0 0 0,3.08 1.6311805,1.54 -180 1 0 0,-3.08 z"
+             inkscape:connector-curvature="0"
+             style="fill:none" />
+          <path
+             id="path2988"
+             class="st4"
+             d="m 3.12,46.07 2.83,2.84 2.84,2.83"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path2990"
+             class="st4"
+             d="m 5.95,0.72 v 48.19 5.67"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path2992"
+             class="st4"
+             d="m 1.98,6.29 a 1.6311805,1.54 0 0 0 0,3.08 1.6311805,1.54 -180 1 0 0,-3.08"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path2994"
+             class="st4"
+             d="M 3.97,36.01 H 0 v -8.64 h 3.97"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path2996"
+             class="st4"
+             d="M 3.97,31.62 H 0"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <style
+     id="style3800"
+     type="text/css"><![CDATA[
+		.st1 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st2 {fill:#000000;font-family:Arial;font-size:0.416656em}
+		.st3 {fill:#000000;font-family:Arial;font-size:0.499992em}
+		.st4 {fill:#000000}
+		.st5 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st6 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]></style>
+  <g
+     style="font-size:12px;overflow:visible;color-interpolation-filters:sRGB;fill:none;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:3"
+     id="g3884"
+     transform="matrix(3.3511868,0,0,4.8549116,572.54587,905.16469)">
+    <g
+       id="g3847">
+      <title
+         id="title3802">Interrupteur automatique ou disjoncteur</title>
+      <g
+         transform="translate(0.36,-0.36)"
+         id="1-5">
+        <title
+           id="title3804">Interrupteur automatique ou disjoncteur</title>
+        <g
+           transform="translate(0,-10.3465)"
+           id="2-2">
+          <title
+             id="title3806">Interrupteur automatique ou disjoncteur</title>
+          <desc
+             id="desc3808">nP</desc>
+          <rect
+             id="rect3810"
+             class="st1"
+             height="6.51969"
+             width="9.1417303"
+             y="22.306801"
+             x="0"
+             style="fill:none;stroke:none;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round" />
+          <text
+             id="text3812"
+             class="st2"
+             y="27.07"
+             x="1.51"
+             style="font-size:4.99987173px;font-family:Arial;fill:#000000">3P</text>
+        </g>
+        <g
+           transform="translate(5.45669)"
+           id="3-4">
+          <title
+             id="title3815">Interrupteur automatique ou disjoncteur</title>
+          <desc
+             id="desc3817">n</desc>
+          <rect
+             id="rect3819"
+             class="st1"
+             height="6.51969"
+             width="9.3543301"
+             y="22.306801"
+             x="0"
+             style="fill:none;stroke:none;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round" />
+          <text
+             id="text3821"
+             class="st3"
+             y="27.370001"
+             x="3.01"
+             style="font-size:5.99990416px;font-family:Arial;fill:#000000">5</text>
+        </g>
+        <g
+           transform="translate(16.6535,-10.6299)"
+           id="4-8">
+          <title
+             id="title3824">Interrupteur automatique ou disjoncteur</title>
+          <desc
+             id="desc3826">20A</desc>
+          <rect
+             id="rect3828"
+             class="st1"
+             height="6.51969"
+             width="11.4094"
+             y="22.306801"
+             x="0"
+             style="fill:none;stroke:none;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round" />
+          <text
+             id="text3830"
+             class="st3"
+             y="27.370001"
+             x="0"
+             style="font-size:5.99990416px;font-family:Arial;fill:#000000">40A</text>
+        </g>
+        <g
+           transform="translate(5.29356)"
+           id="5-0">
+          <title
+             id="title3833">Interrupteur automatique ou disjoncteur</title>
+          <path
+             id="path3835"
+             class="st4"
+             d="M 1.76,11.03 3.28,10.28 1.53,6.72 0,7.47 Z"
+             inkscape:connector-curvature="0"
+             style="fill:#000000" />
+          <path
+             id="path3837"
+             class="st5"
+             d="M 9.73,0.48 V 6.15"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path3839"
+             class="st5"
+             d="M 9.73,28.83 V 23.16 L 5.53,14.76 1.51,6.72"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path3841"
+             class="st5"
+             d="M 8.7,13.15 5.53,14.77 2.24,16.44"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path3843"
+             class="st5"
+             d="M 1.76,11.03 3.28,10.28 1.53,6.72 0,7.47 1.76,11.03"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <style
+     id="style4029"
+     type="text/css"><![CDATA[
+		.st1 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st2 {fill:#000000;font-family:Arial;font-size:0.416656em}
+		.st3 {fill:#000000;font-family:Arial;font-size:0.499992em}
+		.st4 {fill:#000000}
+		.st5 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st6 {fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st7 {fill:#000000;font-family:Times New Roman;font-size:0.833336em}
+		.st8 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]></style>
+  <g
+     style="font-size:12px;overflow:visible;color-interpolation-filters:sRGB;fill:none;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:3"
+     id="g4149"
+     transform="matrix(4.8849836,0,0,5.8870717,548.95061,731.90205)">
+    <g
+       id="g4099">
+      <title
+         id="title4031">Disjoncteur de terre � relais</title>
+      <g
+         transform="translate(0.36,-0.36)"
+         id="1-1">
+        <title
+           id="title4033">Disjoncteur de terre � relais</title>
+        <g
+           transform="translate(0,-10.3465)"
+           id="2-3">
+          <title
+             id="title4035">Disjoncteur de terre � relais</title>
+          <desc
+             id="desc4037">nP</desc>
+          <rect
+             id="rect4039"
+             class="st1"
+             height="6.51969"
+             width="9.1417303"
+             y="23.3696"
+             x="0"
+             style="fill:none;stroke:none;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round" />
+          <text
+             id="text4041"
+             class="st2"
+             y="28.129999"
+             x="1.51"
+             style="font-size:4.99987173px;font-family:Arial;fill:#000000">3P</text>
+        </g>
+        <g
+           transform="translate(5.45669)"
+           id="3-44">
+          <title
+             id="title4044">Disjoncteur de terre � relais</title>
+          <desc
+             id="desc4046">n</desc>
+          <rect
+             id="rect4048"
+             class="st1"
+             height="6.51969"
+             width="9.3543301"
+             y="23.3696"
+             x="0"
+             style="fill:none;stroke:none;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round" />
+          <text
+             id="text4050"
+             class="st3"
+             y="28.43"
+             x="3.01"
+             style="font-size:5.99990416px;font-family:Arial;overflow:visible;fill:#000000;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:3">5</text>
+        </g>
+        <g
+           transform="translate(5.29356)"
+           id="4-3">
+          <title
+             id="title4053">Disjoncteur de terre � relais</title>
+          <path
+             id="path4055"
+             class="st4"
+             d="M 1.76,12.09 3.28,11.34 1.53,7.78 0,8.53 Z"
+             inkscape:connector-curvature="0"
+             style="fill:#000000" />
+          <path
+             id="path4057"
+             class="st5"
+             d="M 9.73,1.54 V 7.21"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path4059"
+             class="st5"
+             d="M 9.73,29.89 V 24.22 L 5.53,15.83 1.51,7.78"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path4061"
+             class="st5"
+             d="M 8.7,14.22 5.53,15.83 2.24,17.5"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path4063"
+             class="st5"
+             d="M 1.76,12.09 3.28,11.34 1.53,7.78 0,8.53 1.76,12.09"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           transform="translate(16.5827,-4.25197)"
+           id="5-3">
+          <title
+             id="title4066">Disjoncteur de terre � relais</title>
+          <desc
+             id="desc4068">40A</desc>
+          <rect
+             id="rect4070"
+             class="st1"
+             height="6.51969"
+             width="21.2598"
+             y="23.3696"
+             x="0"
+             style="fill:none;stroke:none;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round" />
+          <text
+             id="text4072"
+             class="st3"
+             y="28.43"
+             x="0"
+             style="font-size:5.99990416px;font-family:Arial;fill:#000000">40A</text>
+        </g>
+        <g
+           transform="translate(16.5827,-11.1969)"
+           id="6">
+          <title
+             id="title4075">Disjoncteur de terre � relais</title>
+          <desc
+             id="desc4077">300mA</desc>
+          <rect
+             id="rect4079"
+             class="st1"
+             height="6.51969"
+             width="21.2598"
+             y="23.3696"
+             x="0"
+             style="fill:none;stroke:none;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round" />
+          <text
+             id="text4081"
+             class="st3"
+             y="28.43"
+             x="0"
+             style="font-size:5.99990416px;font-family:Arial;fill:#000000">300mA</text>
+        </g>
+        <g
+           transform="translate(21.2598,-19.9198)"
+           id="7">
+          <title
+             id="title4084">Disjoncteur de terre � relais</title>
+          <path
+             id="path4086"
+             class="st6"
+             d="M 2.41,25.07 0,29.89 h 4.82 z"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           transform="translate(26.9291,-17.7938)"
+           id="8">
+          <title
+             id="title4089">Disjoncteur de terre � relais</title>
+          <desc
+             id="desc4091">I</desc>
+          <rect
+             id="rect4093"
+             class="st1"
+             height="9.9212599"
+             width="3.1181099"
+             y="19.9681"
+             x="0"
+             style="fill:none;stroke:none;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round" />
+          <text
+             id="text4095"
+             class="st7"
+             y="27.93"
+             x="0"
+             style="font-size:10.00003242px;font-family:'Times New Roman';fill:#000000">I</text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <style
+     id="style4623"
+     type="text/css"><![CDATA[
+		.st1 {fill:none}
+		.st2 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st3 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]></style>
+  <g
+     style="font-size:12px;overflow:visible;color-interpolation-filters:sRGB;fill:none;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:3"
+     id="g4668"
+     transform="matrix(4.2558104,0,0,4.3504488,359.01009,64.196521)">
+    <g
+       id="g4645">
+      <title
+         id="title4625">Commutateur interm�diaire pour va-et-vient</title>
+      <g
+         transform="translate(0.12,-0.12)"
+         id="1-4">
+        <title
+           id="title4627">Commutateur interm�diaire pour va-et-vient</title>
+        <g
+           id="2-5">
+          <title
+             id="title4629">Commutateur interm�diaire pour va-et-vient</title>
+          <path
+             id="path4631"
+             class="st1"
+             d="m 8.55,10.53 a 2.835,2.835 0 1 1 -5.67,0 2.835,2.835 0 1 1 5.67,0 z"
+             inkscape:connector-curvature="0"
+             style="fill:none" />
+          <path
+             id="path4633"
+             class="st2"
+             d="m 8.55,10.53 a 2.835,2.835 0 1 1 -5.67,0 2.835,2.835 0 1 1 5.67,0"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path4635"
+             class="st2"
+             d="M 11.44,0.96 9.46,0.24 6.69,7.87"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path4637"
+             class="st2"
+             d="M 4.75,13.2 2.76,18.68 1.97,20.83 0,20.11"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path4639"
+             class="st2"
+             d="M 11.44,20.11 9.46,20.83 6.69,13.2"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path4641"
+             class="st2"
+             d="M 0,0.96 1.97,0.24 4.75,7.87"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           style="font-size:12px;overflow:visible;color-interpolation-filters:sRGB;fill:none;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:3"
+           id="g9502"
+           transform="matrix(0.14098714,0,0,0.115456,-63.593766,44.154022)">
+          <g
+             id="g9476">
+            <title
+               id="title9452">Interrupteur unipolaire va-et-vient</title>
+            <g
+               transform="translate(0.12,-0.12)"
+               id="1-58">
+              <title
+                 id="title9454">Interrupteur unipolaire va-et-vient</title>
+              <g
+                 transform="rotate(-70,-0.15793163,17.78399)"
+                 id="2-80">
+                <title
+                   id="title9456">Interrupteur unipolaire va-et-vient</title>
+                <path
+                   id="path9458"
+                   class="st1"
+                   d="M 0,20.83 H 5.83"
+                   inkscape:connector-curvature="0"
+                   style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+              </g>
+              <g
+                 id="3-7">
+                <title
+                   id="title9461">Interrupteur unipolaire va-et-vient</title>
+                <path
+                   id="path9463"
+                   class="st1"
+                   d="m 0,20.11 1.97,0.72 0.79,-2.15"
+                   inkscape:connector-curvature="0"
+                   style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+              </g>
+              <g
+                 transform="translate(2.88416,-7.45875)"
+                 id="4-82">
+                <title
+                   id="title9466">Interrupteur unipolaire va-et-vient</title>
+                <path
+                   id="path9468"
+                   class="st2"
+                   d="m 5.67,17.99 a 2.835,2.835 0 1 1 -5.67,0 2.835,2.835 0 1 1 5.67,0 z"
+                   inkscape:connector-curvature="0"
+                   style="fill:none" />
+                <path
+                   id="path9470"
+                   class="st1"
+                   d="m 5.67,17.99 a 2.835,2.835 0 1 1 -5.67,0 2.835,2.835 0 1 1 5.67,0"
+                   inkscape:connector-curvature="0"
+                   style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+                <path
+                   id="path9472"
+                   class="st1"
+                   d="M 3.8,15.33 5.8,9.85 6.58,7.7 8.55,8.42"
+                   inkscape:connector-curvature="0"
+                   style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <style
+     id="style7181"
+     type="text/css"><![CDATA[
+		.st1 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st2 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]></style>
+  <g
+     style="font-size:12px;overflow:visible;color-interpolation-filters:sRGB;fill:none;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:3"
+     id="g7220"
+     transform="matrix(1.3333279,0,0,1.3333279,147.7699,593.57365)">
+    <g
+       id="g7199">
+      <title
+         id="title7183">Socle de prise de courant avec protection enfant forme pour le sch�ma de position</title>
+      <g
+         transform="translate(0.12,-0.12)"
+         id="1-7">
+        <title
+           id="title7185">Socle de prise de courant avec protection enfant forme pour le sch�ma de position</title>
+        <g
+           id="2-23">
+          <title
+             id="title7187">Socle de prise de courant avec protection enfant forme pour le sch�ma de position</title>
+          <path
+             id="path7189"
+             class="st1"
+             d="M 8.27,1.19 A 4.72441,4.72441 -180 0 0 3.54,5.91 4.72441,4.72441 -180 0 0 8.27,10.64"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path7191"
+             class="st1"
+             d="m 8.27,10.64 v 0.94"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path7193"
+             class="st1"
+             d="M 8.27,0.24 V 1.18"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path7195"
+             class="st1"
+             d="M 3.54,5.9 H 0"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <style
+     id="style7872"
+     type="text/css"><![CDATA[
+		.st1 {fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st2 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]></style>
+  <g
+     style="font-size:12px;overflow:visible;color-interpolation-filters:sRGB;fill:none;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:3"
+     id="g7897"
+     transform="matrix(25.498029,0,0,2.6707356,50.724983,707.63679)">
+    <g
+       id="g7881">
+      <title
+         id="title7874">Coffret �lectrique</title>
+      <g
+         transform="translate(0.12,-0.12)"
+         id="1-0">
+        <title
+           id="title7876">Coffret �lectrique</title>
+        <rect
+           id="rect7878"
+           class="st1"
+           height="11.3386"
+           width="45.354301"
+           y="0.23999999"
+           x="0"
+           style="fill:none;stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+      </g>
+    </g>
+  </g>
+  <style
+     id="style8092"
+     type="text/css"><![CDATA[
+		.st1 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st2 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]></style>
+  <g
+     style="font-size:12px;overflow:visible;color-interpolation-filters:sRGB;fill:none;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:3"
+     id="g8131"
+     transform="matrix(5.5603084,0,0,2.8747285,530.53058,80.578654)">
+    <g
+       id="g8110">
+      <title
+         id="title8094">Socle de prise de courant avec protection enfant forme pour le sch�ma de position</title>
+      <g
+         transform="translate(0.12,-0.12)"
+         id="1-6">
+        <title
+           id="title8096">Socle de prise de courant avec protection enfant forme pour le sch�ma de position</title>
+        <g
+           id="2-8">
+          <title
+             id="title8098">Socle de prise de courant avec protection enfant forme pour le sch�ma de position</title>
+          <path
+             id="path8100"
+             class="st1"
+             d="M 8.27,1.19 A 4.72441,4.72441 -180 0 0 3.54,5.91 4.72441,4.72441 -180 0 0 8.27,10.64"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path8102"
+             class="st1"
+             d="m 8.27,10.64 v 0.94"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path8104"
+             class="st1"
+             d="M 8.27,0.24 V 1.18"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path8106"
+             class="st1"
+             d="M 3.54,5.9 H 0"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     style="font-size:12px;overflow:visible;color-interpolation-filters:sRGB;fill:none;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:3"
+     id="g3884-1"
+     transform="matrix(4.3249102,0,0,5.5900325,126.89354,549.20794)">
+    <g
+       id="g3847-0">
+      <title
+         id="title3802-7">Interrupteur automatique ou disjoncteur</title>
+      <g
+         transform="translate(0.36,-0.36)"
+         id="1-5-0">
+        <title
+           id="title3804-4">Interrupteur automatique ou disjoncteur</title>
+        <g
+           transform="translate(0,-10.3465)"
+           id="2-2-8">
+          <title
+             id="title3806-7">Interrupteur automatique ou disjoncteur</title>
+          <desc
+             id="desc3808-3">nP</desc>
+          <rect
+             id="rect3810-3"
+             class="st1"
+             height="6.51969"
+             width="9.1417303"
+             y="22.306801"
+             x="0"
+             style="fill:none;stroke:none;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round" />
+          <text
+             id="text3812-2"
+             class="st2"
+             y="27.07"
+             x="1.51"
+             style="font-size:4.99987173px;font-family:Arial;overflow:visible;fill:#000000;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:3">2P</text>
+        </g>
+        <g
+           transform="translate(5.45669)"
+           id="3-4-6">
+          <title
+             id="title3815-0">Interrupteur automatique ou disjoncteur</title>
+          <desc
+             id="desc3817-9">n</desc>
+          <rect
+             id="rect3819-8"
+             class="st1"
+             height="6.51969"
+             width="9.3543301"
+             y="22.306801"
+             x="0"
+             style="fill:none;stroke:none;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round" />
+          <text
+             id="text3821-6"
+             class="st3"
+             y="27.370001"
+             x="3.01"
+             style="font-size:5.99990416px;font-family:Arial;fill:#000000">3</text>
+        </g>
+        <g
+           transform="translate(16.6535,-10.6299)"
+           id="4-8-6">
+          <title
+             id="title3824-3">Interrupteur automatique ou disjoncteur</title>
+          <desc
+             id="desc3826-1">20A</desc>
+          <rect
+             id="rect3828-3"
+             class="st1"
+             height="6.51969"
+             width="11.4094"
+             y="22.306801"
+             x="0"
+             style="fill:none;stroke:none;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round" />
+          <text
+             id="text3830-6"
+             class="st3"
+             y="27.370001"
+             x="0"
+             style="font-size:5.99990416px;font-family:Arial;fill:#000000">16A</text>
+        </g>
+        <g
+           transform="translate(5.29356)"
+           id="5-0-5">
+          <title
+             id="title3833-4">Interrupteur automatique ou disjoncteur</title>
+          <path
+             id="path3835-1"
+             class="st4"
+             d="M 1.76,11.03 3.28,10.28 1.53,6.72 0,7.47 Z"
+             inkscape:connector-curvature="0"
+             style="fill:#000000" />
+          <path
+             id="path3837-7"
+             class="st5"
+             d="M 9.73,0.48 V 6.15"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path3839-4"
+             class="st5"
+             d="M 9.73,28.83 V 23.16 L 5.53,14.76 1.51,6.72"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path3841-3"
+             class="st5"
+             d="M 8.7,13.15 5.53,14.77 2.24,16.44"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path3843-5"
+             class="st5"
+             d="M 1.76,11.03 3.28,10.28 1.53,6.72 0,7.47 1.76,11.03"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     style="font-size:12px;overflow:visible;color-interpolation-filters:sRGB;fill:none;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:3"
+     id="g3884-1-4"
+     transform="matrix(4.3249102,0,0,5.5900325,463.24872,542.40372)">
+    <g
+       id="g3847-0-9">
+      <title
+         id="title3802-7-2">Interrupteur automatique ou disjoncteur</title>
+      <g
+         transform="translate(0.36,-0.36)"
+         id="1-5-0-5">
+        <title
+           id="title3804-4-7">Interrupteur automatique ou disjoncteur</title>
+        <g
+           transform="translate(0,-10.3465)"
+           id="2-2-8-7">
+          <title
+             id="title3806-7-6">Interrupteur automatique ou disjoncteur</title>
+          <desc
+             id="desc3808-3-8">nP</desc>
+          <rect
+             id="rect3810-3-5"
+             class="st1"
+             height="6.51969"
+             width="9.1417303"
+             y="22.306801"
+             x="0"
+             style="fill:none;stroke:none;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round" />
+          <text
+             id="text3812-2-2"
+             class="st2"
+             y="27.07"
+             x="1.51"
+             style="font-size:4.99987173px;font-family:Arial;overflow:visible;fill:#000000;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:3">2P</text>
+        </g>
+        <g
+           transform="translate(5.45669)"
+           id="3-4-6-1">
+          <title
+             id="title3815-0-6">Interrupteur automatique ou disjoncteur</title>
+          <desc
+             id="desc3817-9-3">n</desc>
+          <rect
+             id="rect3819-8-0"
+             class="st1"
+             height="6.51969"
+             width="9.3543301"
+             y="22.306801"
+             x="0"
+             style="fill:none;stroke:none;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round" />
+          <text
+             id="text3821-6-9"
+             class="st3"
+             y="27.370001"
+             x="3.01"
+             style="font-size:5.99990416px;font-family:Arial;fill:#000000">3</text>
+        </g>
+        <g
+           transform="translate(16.6535,-10.6299)"
+           id="4-8-6-7">
+          <title
+             id="title3824-3-2">Interrupteur automatique ou disjoncteur</title>
+          <desc
+             id="desc3826-1-3">20A</desc>
+          <rect
+             id="rect3828-3-3"
+             class="st1"
+             height="6.51969"
+             width="11.4094"
+             y="22.306801"
+             x="0"
+             style="fill:none;stroke:none;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round" />
+          <text
+             id="text3830-6-2"
+             class="st3"
+             y="27.370001"
+             x="0"
+             style="font-size:5.99990416px;font-family:Arial;fill:#000000">20A</text>
+        </g>
+        <g
+           transform="translate(5.29356)"
+           id="5-0-5-0">
+          <title
+             id="title3833-4-7">Interrupteur automatique ou disjoncteur</title>
+          <path
+             id="path3835-1-9"
+             class="st4"
+             d="M 1.76,11.03 3.28,10.28 1.53,6.72 0,7.47 Z"
+             inkscape:connector-curvature="0"
+             style="fill:#000000" />
+          <path
+             id="path3837-7-8"
+             class="st5"
+             d="M 9.73,0.48 V 6.15"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path3839-4-7"
+             class="st5"
+             d="M 9.73,28.83 V 23.16 L 5.53,14.76 1.51,6.72"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path3841-3-3"
+             class="st5"
+             d="M 8.7,13.15 5.53,14.77 2.24,16.44"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path3843-5-0"
+             class="st5"
+             d="M 1.76,11.03 3.28,10.28 1.53,6.72 0,7.47 1.76,11.03"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     style="font-size:12px;overflow:visible;color-interpolation-filters:sRGB;fill:none;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:3"
+     id="g3884-1-7"
+     transform="matrix(4.3249102,0,0,5.5900325,877.33519,546.60765)">
+    <g
+       id="g3847-0-92">
+      <title
+         id="title3802-7-7">Interrupteur automatique ou disjoncteur</title>
+      <g
+         transform="translate(0.36,-0.36)"
+         id="1-5-0-8">
+        <title
+           id="title3804-4-6">Interrupteur automatique ou disjoncteur</title>
+        <g
+           transform="translate(0,-10.3465)"
+           id="2-2-8-2">
+          <title
+             id="title3806-7-3">Interrupteur automatique ou disjoncteur</title>
+          <desc
+             id="desc3808-3-5">nP</desc>
+          <rect
+             id="rect3810-3-1"
+             class="st1"
+             height="6.51969"
+             width="9.1417303"
+             y="22.306801"
+             x="0"
+             style="fill:none;stroke:none;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round" />
+          <text
+             id="text3812-2-9"
+             class="st2"
+             y="27.07"
+             x="1.51"
+             style="font-size:4.99987173px;font-family:Arial;overflow:visible;fill:#000000;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:3">2P</text>
+        </g>
+        <g
+           transform="translate(5.45669)"
+           id="3-4-6-9">
+          <title
+             id="title3815-0-8">Interrupteur automatique ou disjoncteur</title>
+          <desc
+             id="desc3817-9-4">n</desc>
+          <rect
+             id="rect3819-8-4"
+             class="st1"
+             height="6.51969"
+             width="9.3543301"
+             y="22.306801"
+             x="0"
+             style="fill:none;stroke:none;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round" />
+          <text
+             id="text3821-6-5"
+             class="st3"
+             y="27.370001"
+             x="3.01"
+             style="font-size:5.99990416px;font-family:Arial;fill:#000000">3</text>
+        </g>
+        <g
+           transform="translate(16.6535,-10.6299)"
+           id="4-8-6-6">
+          <title
+             id="title3824-3-1">Interrupteur automatique ou disjoncteur</title>
+          <desc
+             id="desc3826-1-34">20A</desc>
+          <rect
+             id="rect3828-3-5"
+             class="st1"
+             height="6.51969"
+             width="11.4094"
+             y="22.306801"
+             x="0"
+             style="fill:none;stroke:none;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round" />
+          <text
+             id="text3830-6-7"
+             class="st3"
+             y="27.370001"
+             x="0"
+             style="font-size:5.99990416px;font-family:Arial;fill:#000000">20A</text>
+        </g>
+        <g
+           transform="translate(5.29356)"
+           id="5-0-5-4">
+          <title
+             id="title3833-4-0">Interrupteur automatique ou disjoncteur</title>
+          <path
+             id="path3835-1-5"
+             class="st4"
+             d="M 1.76,11.03 3.28,10.28 1.53,6.72 0,7.47 Z"
+             inkscape:connector-curvature="0"
+             style="fill:#000000" />
+          <path
+             id="path3837-7-83"
+             class="st5"
+             d="M 9.73,0.48 V 6.15"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path3839-4-9"
+             class="st5"
+             d="M 9.73,28.83 V 23.16 L 5.53,14.76 1.51,6.72"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path3841-3-4"
+             class="st5"
+             d="M 8.7,13.15 5.53,14.77 2.24,16.44"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path3843-5-3"
+             class="st5"
+             d="M 1.76,11.03 3.28,10.28 1.53,6.72 0,7.47 1.76,11.03"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     style="font-size:12px;overflow:visible;color-interpolation-filters:sRGB;fill:none;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:3"
+     id="g3035-5"
+     transform="matrix(3.1341721,0,0,4.1305904,506.06949,319.11391)">
+    <g
+       id="g3000-9">
+      <title
+         id="title2959-4">Canalisation placée dans un conduit encastré dans une paroi</title>
+      <g
+         transform="translate(0.198234,-0.36)"
+         id="1-9-2">
+        <title
+           id="title2961-1">Canalisation placée dans un conduit encastré dans une paroi</title>
+        <g
+           id="2-4">
+          <title
+             id="title2963-0">Canalisation placée dans un conduit encastré dans une paroi</title>
+          <g
+             transform="rotate(-90,10.4882,44.0901)"
+             id="3-0">
+            <title
+               id="title2965-2">Canalisation placée dans un conduit encastré dans une paroi</title>
+            <desc
+               id="desc2967-1">VOB X x Ymm²</desc>
+            <rect
+               id="rect2969-8"
+               class="st1"
+               height="10.7717"
+               width="53.858299"
+               y="43.806599"
+               x="0"
+               style="fill:none;stroke:none;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round" />
+            <text
+               id="text2971-3"
+               class="st2"
+               y="50.990002"
+               x="6.5900002"
+               style="font-size:5.99990416px;font-family:Arial;overflow:visible;fill:#000000;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:3">VOB x3.5m²</text>
+          </g>
+          <g
+             transform="rotate(-90,0.28345,49.19245)"
+             id="4-7">
+            <title
+               id="title2974-4">Canalisation placée dans un conduit encastré dans une paroi</title>
+            <desc
+               id="desc2976-1">n</desc>
+            <rect
+               id="rect2978-5"
+               class="st1"
+               height="4.53543"
+               width="11.3386"
+               y="50.042801"
+               x="0"
+               style="fill:none;stroke:none;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round" />
+            <text
+               id="text2980-1"
+               class="st2"
+               y="54.110001"
+               x="4"
+               style="font-size:5.99990416px;font-family:Arial;overflow:visible;fill:#000000;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:3">n</text>
+          </g>
+        </g>
+        <g
+           transform="translate(1.41732)"
+           id="5-8">
+          <title
+             id="title2984-3">Canalisation placée dans un conduit encastré dans une paroi</title>
+          <path
+             id="path2986-5"
+             class="st3"
+             d="m 1.98,6.29 a 1.6311805,1.54 0 0 0 0,3.08 1.6311805,1.54 -180 1 0 0,-3.08 z"
+             inkscape:connector-curvature="0"
+             style="fill:none" />
+          <path
+             id="path2988-8"
+             class="st4"
+             d="m 3.12,46.07 2.83,2.84 2.84,2.83"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path2990-3"
+             class="st4"
+             d="m 5.95,0.72 v 48.19 5.67"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path2992-4"
+             class="st4"
+             d="m 1.98,6.29 a 1.6311805,1.54 0 0 0 0,3.08 1.6311805,1.54 -180 1 0 0,-3.08"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path2994-1"
+             class="st4"
+             d="M 3.97,36.01 H 0 v -8.64 h 3.97"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path2996-3"
+             class="st4"
+             d="M 3.97,31.62 H 0"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     style="font-size:12px;overflow:visible;color-interpolation-filters:sRGB;fill:none;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:3"
+     id="g3035-51"
+     transform="matrix(3.1341721,0,0,4.1305904,911.25491,335.04872)">
+    <g
+       id="g3000-4">
+      <title
+         id="title2959-0">Canalisation placée dans un conduit encastré dans une paroi</title>
+      <g
+         transform="translate(0.198234,-0.36)"
+         id="1-9-20">
+        <title
+           id="title2961-7">Canalisation placée dans un conduit encastré dans une paroi</title>
+        <g
+           id="2-9">
+          <title
+             id="title2963-01">Canalisation placée dans un conduit encastré dans une paroi</title>
+          <g
+             transform="rotate(-90,10.4882,44.0901)"
+             id="3-46">
+            <title
+               id="title2965-6">Canalisation placée dans un conduit encastré dans une paroi</title>
+            <desc
+               id="desc2967-7">VOB X x Ymm²</desc>
+            <rect
+               id="rect2969-5"
+               class="st1"
+               height="10.7717"
+               width="53.858299"
+               y="43.806599"
+               x="0"
+               style="fill:none;stroke:none;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round" />
+            <text
+               id="text2971-0"
+               class="st2"
+               y="50.990002"
+               x="6.5900002"
+               style="font-size:5.99990416px;font-family:Arial;overflow:visible;fill:#000000;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:3">VOB 3x 2.5mm²</text>
+          </g>
+          <g
+             transform="rotate(-90,0.28345,49.19245)"
+             id="4-6">
+            <title
+               id="title2974-7">Canalisation placée dans un conduit encastré dans une paroi</title>
+            <desc
+               id="desc2976-4">n</desc>
+            <rect
+               id="rect2978-8"
+               class="st1"
+               height="4.53543"
+               width="11.3386"
+               y="50.042801"
+               x="0"
+               style="fill:none;stroke:none;stroke-width:0.72000003;stroke-linecap:round;stroke-linejoin:round" />
+            <text
+               id="text2980-2"
+               class="st2"
+               y="54.110001"
+               x="4"
+               style="font-size:5.99990416px;font-family:Arial;overflow:visible;fill:#000000;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:3">n</text>
+          </g>
+        </g>
+        <g
+           transform="translate(1.41732)"
+           id="5-5">
+          <title
+             id="title2984-6">Canalisation placée dans un conduit encastré dans une paroi</title>
+          <path
+             id="path2986-8"
+             class="st3"
+             d="m 1.98,6.29 a 1.6311805,1.54 0 0 0 0,3.08 1.6311805,1.54 -180 1 0 0,-3.08 z"
+             inkscape:connector-curvature="0"
+             style="fill:none" />
+          <path
+             id="path2988-2"
+             class="st4"
+             d="m 3.12,46.07 2.83,2.84 2.84,2.83"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path2990-2"
+             class="st4"
+             d="m 5.95,0.72 v 48.19 5.67"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path2992-9"
+             class="st4"
+             d="m 1.98,6.29 a 1.6311805,1.54 0 0 0 0,3.08 1.6311805,1.54 -180 1 0 0,-3.08"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path2994-2"
+             class="st4"
+             d="M 3.97,36.01 H 0 v -8.64 h 3.97"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path2996-1"
+             class="st4"
+             d="M 3.97,31.62 H 0"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 193.42606,327.40514 2.05639,-226.37842"
+     id="path8551"
+     inkscape:connector-curvature="0" />
+  <style
+     id="style9450"
+     type="text/css"><![CDATA[
+		.st1 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st2 {fill:none}
+		.st3 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]></style>
+  <style
+     id="style9913"
+     type="text/css"><![CDATA[
+		.st1 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st2 {fill:none}
+		.st3 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]></style>
+  <g
+     style="font-size:12px;overflow:visible;color-interpolation-filters:sRGB;fill:none;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:3"
+     id="g9965"
+     transform="matrix(2.1856433,4.7760627,2.8586896,-1.9068016,257.61585,102.90123)">
+    <g
+       id="g9939">
+      <title
+         id="title9915">Interrupteur unipolaire va-et-vient</title>
+      <g
+         transform="translate(0.12,-0.12)"
+         id="1-2">
+        <title
+           id="title9917">Interrupteur unipolaire va-et-vient</title>
+        <g
+           transform="rotate(-70,-0.15793163,17.78399)"
+           id="2-20">
+          <title
+             id="title9919">Interrupteur unipolaire va-et-vient</title>
+          <path
+             id="path9921"
+             class="st1"
+             d="M 0,20.83 H 5.83"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="3-03">
+          <title
+             id="title9924">Interrupteur unipolaire va-et-vient</title>
+          <path
+             id="path9926"
+             class="st1"
+             d="m 0,20.11 1.97,0.72 0.79,-2.15"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           transform="translate(2.88416,-7.45875)"
+           id="4-0">
+          <title
+             id="title9929">Interrupteur unipolaire va-et-vient</title>
+          <path
+             id="path9931"
+             class="st2"
+             d="m 5.67,17.99 a 2.835,2.835 0 1 1 -5.67,0 2.835,2.835 0 1 1 5.67,0 z"
+             inkscape:connector-curvature="0"
+             style="fill:none" />
+          <path
+             id="path9933"
+             class="st1"
+             d="m 5.67,17.99 a 2.835,2.835 0 1 1 -5.67,0 2.835,2.835 0 1 1 5.67,0"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path9935"
+             class="st1"
+             d="M 3.8,15.33 5.8,9.85 6.58,7.7 8.55,8.42"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     style="font-size:12px;overflow:visible;color-interpolation-filters:sRGB;fill:none;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:3"
+     id="g9965-8"
+     transform="matrix(2.1856433,4.7760627,2.8586896,-1.9068016,247.53791,240.14632)"
+     inkscape:transform-center-x="-2.1019617"
+     inkscape:transform-center-y="27.325503">
+    <g
+       id="g9939-0">
+      <title
+         id="title9915-7">Interrupteur unipolaire va-et-vient</title>
+      <g
+         transform="translate(0.12,-0.12)"
+         id="1-2-9">
+        <title
+           id="title9917-3">Interrupteur unipolaire va-et-vient</title>
+        <g
+           transform="rotate(-70,-0.15793163,17.78399)"
+           id="2-20-0">
+          <title
+             id="title9919-0">Interrupteur unipolaire va-et-vient</title>
+          <path
+             id="path9921-8"
+             class="st1"
+             d="M 0,20.83 H 5.83"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="3-03-7">
+          <title
+             id="title9924-5">Interrupteur unipolaire va-et-vient</title>
+          <path
+             id="path9926-5"
+             class="st1"
+             d="m 0,20.11 1.97,0.72 0.79,-2.15"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           transform="translate(2.88416,-7.45875)"
+           id="4-0-5">
+          <title
+             id="title9929-0">Interrupteur unipolaire va-et-vient</title>
+          <path
+             id="path9931-3"
+             class="st2"
+             d="m 5.67,17.99 a 2.835,2.835 0 1 1 -5.67,0 2.835,2.835 0 1 1 5.67,0 z"
+             inkscape:connector-curvature="0"
+             style="fill:none" />
+          <path
+             id="path9933-4"
+             class="st1"
+             d="m 5.67,17.99 a 2.835,2.835 0 1 1 -5.67,0 2.835,2.835 0 1 1 5.67,0"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path9935-4"
+             class="st1"
+             d="M 3.8,15.33 5.8,9.85 6.58,7.7 8.55,8.42"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     style="font-size:12px;overflow:visible;color-interpolation-filters:sRGB;fill:none;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:3"
+     id="g4668-1"
+     transform="matrix(4.2558104,0,0,4.3504488,351.93494,199.6979)">
+    <g
+       id="g4645-9">
+      <title
+         id="title4625-9">Commutateur interm�diaire pour va-et-vient</title>
+      <g
+         transform="translate(0.12,-0.12)"
+         id="1-4-9">
+        <title
+           id="title4627-8">Commutateur interm�diaire pour va-et-vient</title>
+        <g
+           id="2-5-6">
+          <title
+             id="title4629-4">Commutateur interm�diaire pour va-et-vient</title>
+          <path
+             id="path4631-8"
+             class="st1"
+             d="m 8.55,10.53 a 2.835,2.835 0 1 1 -5.67,0 2.835,2.835 0 1 1 5.67,0 z"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path4633-2"
+             class="st2"
+             d="m 8.55,10.53 a 2.835,2.835 0 1 1 -5.67,0 2.835,2.835 0 1 1 5.67,0"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path4635-8"
+             class="st2"
+             d="M 11.44,0.96 9.46,0.24 6.69,7.87"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path4637-1"
+             class="st2"
+             d="M 4.75,13.2 2.76,18.68 1.97,20.83 0,20.11"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path4639-4"
+             class="st2"
+             d="M 11.44,20.11 9.46,20.83 6.69,13.2"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path4641-8"
+             class="st2"
+             d="M 0,0.96 1.97,0.24 4.75,7.87"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           style="font-size:12px;overflow:visible;color-interpolation-filters:sRGB;fill:none;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:3"
+           id="g9502-0"
+           transform="matrix(0.14098714,0,0,0.115456,-63.593766,44.154022)">
+          <g
+             id="g9476-3">
+            <title
+               id="title9452-1">Interrupteur unipolaire va-et-vient</title>
+            <g
+               transform="translate(0.12,-0.12)"
+               id="1-58-3">
+              <title
+                 id="title9454-2">Interrupteur unipolaire va-et-vient</title>
+              <g
+                 transform="rotate(-70,-0.15793163,17.78399)"
+                 id="2-80-8">
+                <title
+                   id="title9456-2">Interrupteur unipolaire va-et-vient</title>
+                <path
+                   id="path9458-5"
+                   class="st1"
+                   d="M 0,20.83 H 5.83"
+                   inkscape:connector-curvature="0"
+                   style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+              </g>
+              <g
+                 id="3-7-6">
+                <title
+                   id="title9461-7">Interrupteur unipolaire va-et-vient</title>
+                <path
+                   id="path9463-4"
+                   class="st1"
+                   d="m 0,20.11 1.97,0.72 0.79,-2.15"
+                   inkscape:connector-curvature="0"
+                   style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+              </g>
+              <g
+                 transform="translate(2.88416,-7.45875)"
+                 id="4-82-4">
+                <title
+                   id="title9466-6">Interrupteur unipolaire va-et-vient</title>
+                <path
+                   id="path9468-3"
+                   class="st2"
+                   d="m 5.67,17.99 a 2.835,2.835 0 1 1 -5.67,0 2.835,2.835 0 1 1 5.67,0 z"
+                   inkscape:connector-curvature="0"
+                   style="fill:none" />
+                <path
+                   id="path9470-9"
+                   class="st1"
+                   d="m 5.67,17.99 a 2.835,2.835 0 1 1 -5.67,0 2.835,2.835 0 1 1 5.67,0"
+                   inkscape:connector-curvature="0"
+                   style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+                <path
+                   id="path9472-4"
+                   class="st1"
+                   d="M 3.8,15.33 5.8,9.85 6.58,7.7 8.55,8.42"
+                   inkscape:connector-curvature="0"
+                   style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     style="font-size:12px;overflow:visible;color-interpolation-filters:sRGB;fill:none;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:3"
+     id="g9965-0"
+     transform="matrix(2.1856433,4.7760627,2.8586896,-1.9068016,428.30663,99.314871)">
+    <g
+       id="g9939-4">
+      <title
+         id="title9915-1">Interrupteur unipolaire va-et-vient</title>
+      <g
+         transform="translate(0.12,-0.12)"
+         id="1-2-8">
+        <title
+           id="title9917-1">Interrupteur unipolaire va-et-vient</title>
+        <g
+           transform="rotate(-70,-0.15793163,17.78399)"
+           id="2-20-4">
+          <title
+             id="title9919-3">Interrupteur unipolaire va-et-vient</title>
+          <path
+             id="path9921-9"
+             class="st1"
+             d="M 0,20.83 H 5.83"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="3-03-2">
+          <title
+             id="title9924-3">Interrupteur unipolaire va-et-vient</title>
+          <path
+             id="path9926-0"
+             class="st1"
+             d="m 0,20.11 1.97,0.72 0.79,-2.15"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           transform="translate(2.88416,-7.45875)"
+           id="4-0-2">
+          <title
+             id="title9929-1">Interrupteur unipolaire va-et-vient</title>
+          <path
+             id="path9931-5"
+             class="st2"
+             d="m 5.67,17.99 a 2.835,2.835 0 1 1 -5.67,0 2.835,2.835 0 1 1 5.67,0 z"
+             inkscape:connector-curvature="0"
+             style="fill:none" />
+          <path
+             id="path9933-41"
+             class="st1"
+             d="m 5.67,17.99 a 2.835,2.835 0 1 1 -5.67,0 2.835,2.835 0 1 1 5.67,0"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path9935-0"
+             class="st1"
+             d="M 3.8,15.33 5.8,9.85 6.58,7.7 8.55,8.42"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     style="font-size:12px;overflow:visible;color-interpolation-filters:sRGB;fill:none;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:3"
+     id="g9965-0-6"
+     transform="matrix(2.1856433,4.7760627,2.8586896,-1.9068016,417.79682,238.04435)">
+    <g
+       id="g9939-4-6">
+      <title
+         id="title9915-1-5">Interrupteur unipolaire va-et-vient</title>
+      <g
+         transform="translate(0.12,-0.12)"
+         id="1-2-8-3">
+        <title
+           id="title9917-1-7">Interrupteur unipolaire va-et-vient</title>
+        <g
+           transform="rotate(-70,-0.15793163,17.78399)"
+           id="2-20-4-5">
+          <title
+             id="title9919-3-4">Interrupteur unipolaire va-et-vient</title>
+          <path
+             id="path9921-9-1"
+             class="st1"
+             d="M 0,20.83 H 5.83"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           id="3-03-2-3">
+          <title
+             id="title9924-3-8">Interrupteur unipolaire va-et-vient</title>
+          <path
+             id="path9926-0-5"
+             class="st1"
+             d="m 0,20.11 1.97,0.72 0.79,-2.15"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           transform="translate(2.88416,-7.45875)"
+           id="4-0-2-7">
+          <title
+             id="title9929-1-6">Interrupteur unipolaire va-et-vient</title>
+          <path
+             id="path9931-5-7"
+             class="st2"
+             d="m 5.67,17.99 a 2.835,2.835 0 1 1 -5.67,0 2.835,2.835 0 1 1 5.67,0 z"
+             inkscape:connector-curvature="0"
+             style="fill:none" />
+          <path
+             id="path9933-41-5"
+             class="st1"
+             d="m 5.67,17.99 a 2.835,2.835 0 1 1 -5.67,0 2.835,2.835 0 1 1 5.67,0"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path9935-0-6"
+             class="st1"
+             d="M 3.8,15.33 5.8,9.85 6.58,7.7 8.55,8.42"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 195.48245,101.02672 110.17139,0.20627"
+     id="path10252"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 476.34462,97.646634 -88.35246,0.265865"
+     id="path10256"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 379.73589,97.912499 -74.08205,3.320491"
+     id="path10258"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 454.8267,255.76135 -73.90969,0.84042"
+     id="path10272"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 372.66074,256.60177 -88.09295,1.26155"
+     id="path10274"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 284.56779,257.86332 -93.28927,0.81053"
+     id="path10276"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 529.78124,320.60092 531.79633,65.293365"
+     id="path10284"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 934.96666,336.53573 931.16907,73.701212"
+     id="path10286"
+     inkscape:connector-curvature="0" />
+  <g
+     style="font-size:12px;overflow:visible;color-interpolation-filters:sRGB;fill:none;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:3"
+     id="g8131-1"
+     transform="matrix(5.5603084,0,0,2.8747285,529.15684,147.44089)">
+    <g
+       id="g8110-9">
+      <title
+         id="title8094-3">Socle de prise de courant avec protection enfant forme pour le sch�ma de position</title>
+      <g
+         transform="translate(0.12,-0.12)"
+         id="1-6-1">
+        <title
+           id="title8096-3">Socle de prise de courant avec protection enfant forme pour le sch�ma de position</title>
+        <g
+           id="2-8-4">
+          <title
+             id="title8098-2">Socle de prise de courant avec protection enfant forme pour le sch�ma de position</title>
+          <path
+             id="path8100-2"
+             class="st1"
+             d="M 8.27,1.19 A 4.72441,4.72441 -180 0 0 3.54,5.91 4.72441,4.72441 -180 0 0 8.27,10.64"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path8102-4"
+             class="st1"
+             d="m 8.27,10.64 v 0.94"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path8104-5"
+             class="st1"
+             d="M 8.27,0.24 V 1.18"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path8106-0"
+             class="st1"
+             d="M 3.54,5.9 H 0"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     style="font-size:12px;overflow:visible;color-interpolation-filters:sRGB;fill:none;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:3"
+     id="g8131-5"
+     transform="matrix(5.5603084,0,0,2.8747285,533.36076,210.49975)">
+    <g
+       id="g8110-2">
+      <title
+         id="title8094-7">Socle de prise de courant avec protection enfant forme pour le sch�ma de position</title>
+      <g
+         transform="translate(0.12,-0.12)"
+         id="1-6-6">
+        <title
+           id="title8096-4">Socle de prise de courant avec protection enfant forme pour le sch�ma de position</title>
+        <g
+           id="2-8-3">
+          <title
+             id="title8098-1">Socle de prise de courant avec protection enfant forme pour le sch�ma de position</title>
+          <path
+             id="path8100-1"
+             class="st1"
+             d="M 8.27,1.19 A 4.72441,4.72441 -180 0 0 3.54,5.91 4.72441,4.72441 -180 0 0 8.27,10.64"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path8102-2"
+             class="st1"
+             d="m 8.27,10.64 v 0.94"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path8104-8"
+             class="st1"
+             d="M 8.27,0.24 V 1.18"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path8106-1"
+             class="st1"
+             d="M 3.54,5.9 H 0"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     style="font-size:12px;overflow:visible;color-interpolation-filters:sRGB;fill:none;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:3"
+     id="g8131-0"
+     transform="matrix(5.5603084,0,0,2.8747285,533.36076,267.25271)">
+    <g
+       id="g8110-7">
+      <title
+         id="title8094-2">Socle de prise de courant avec protection enfant forme pour le sch�ma de position</title>
+      <g
+         transform="translate(0.12,-0.12)"
+         id="1-6-69">
+        <title
+           id="title8096-0">Socle de prise de courant avec protection enfant forme pour le sch�ma de position</title>
+        <g
+           id="2-8-35">
+          <title
+             id="title8098-3">Socle de prise de courant avec protection enfant forme pour le sch�ma de position</title>
+          <path
+             id="path8100-25"
+             class="st1"
+             d="M 8.27,1.19 A 4.72441,4.72441 -180 0 0 3.54,5.91 4.72441,4.72441 -180 0 0 8.27,10.64"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path8102-5"
+             class="st1"
+             d="m 8.27,10.64 v 0.94"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path8104-4"
+             class="st1"
+             d="M 8.27,0.24 V 1.18"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path8106-4"
+             class="st1"
+             d="M 3.54,5.9 H 0"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     style="font-size:12px;overflow:visible;color-interpolation-filters:sRGB;fill:none;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:3"
+     id="g8131-11"
+     transform="matrix(5.5603084,0,0,2.8747285,932.60379,80.206861)">
+    <g
+       id="g8110-1">
+      <title
+         id="title8094-8">Socle de prise de courant avec protection enfant forme pour le sch�ma de position</title>
+      <g
+         transform="translate(0.12,-0.12)"
+         id="1-6-64">
+        <title
+           id="title8096-5">Socle de prise de courant avec protection enfant forme pour le sch�ma de position</title>
+        <g
+           id="2-8-8">
+          <title
+             id="title8098-9">Socle de prise de courant avec protection enfant forme pour le sch�ma de position</title>
+          <path
+             id="path8100-3"
+             class="st1"
+             d="M 8.27,1.19 A 4.72441,4.72441 -180 0 0 3.54,5.91 4.72441,4.72441 -180 0 0 8.27,10.64"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path8102-47"
+             class="st1"
+             d="m 8.27,10.64 v 0.94"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path8104-2"
+             class="st1"
+             d="M 8.27,0.24 V 1.18"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path8106-5"
+             class="st1"
+             d="M 3.54,5.9 H 0"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     style="font-size:12px;overflow:visible;color-interpolation-filters:sRGB;fill:none;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:3"
+     id="g8131-1-5"
+     transform="matrix(5.5603084,0,0,2.8747285,931.23005,147.0691)">
+    <g
+       id="g8110-9-0">
+      <title
+         id="title8094-3-1">Socle de prise de courant avec protection enfant forme pour le sch�ma de position</title>
+      <g
+         transform="translate(0.12,-0.12)"
+         id="1-6-1-7">
+        <title
+           id="title8096-3-4">Socle de prise de courant avec protection enfant forme pour le sch�ma de position</title>
+        <g
+           id="2-8-4-2">
+          <title
+             id="title8098-2-2">Socle de prise de courant avec protection enfant forme pour le sch�ma de position</title>
+          <path
+             id="path8100-2-5"
+             class="st1"
+             d="M 8.27,1.19 A 4.72441,4.72441 -180 0 0 3.54,5.91 4.72441,4.72441 -180 0 0 8.27,10.64"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path8102-4-8"
+             class="st1"
+             d="m 8.27,10.64 v 0.94"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path8104-5-6"
+             class="st1"
+             d="M 8.27,0.24 V 1.18"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path8106-0-2"
+             class="st1"
+             d="M 3.54,5.9 H 0"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     style="font-size:12px;overflow:visible;color-interpolation-filters:sRGB;fill:none;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:3"
+     id="g8131-5-9"
+     transform="matrix(5.5603084,0,0,2.8747285,935.43397,210.12796)">
+    <g
+       id="g8110-2-8">
+      <title
+         id="title8094-7-5">Socle de prise de courant avec protection enfant forme pour le sch�ma de position</title>
+      <g
+         transform="translate(0.12,-0.12)"
+         id="1-6-6-6">
+        <title
+           id="title8096-4-6">Socle de prise de courant avec protection enfant forme pour le sch�ma de position</title>
+        <g
+           id="2-8-3-7">
+          <title
+             id="title8098-1-7">Socle de prise de courant avec protection enfant forme pour le sch�ma de position</title>
+          <path
+             id="path8100-1-1"
+             class="st1"
+             d="M 8.27,1.19 A 4.72441,4.72441 -180 0 0 3.54,5.91 4.72441,4.72441 -180 0 0 8.27,10.64"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path8102-2-1"
+             class="st1"
+             d="m 8.27,10.64 v 0.94"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path8104-8-7"
+             class="st1"
+             d="M 8.27,0.24 V 1.18"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path8106-1-1"
+             class="st1"
+             d="M 3.54,5.9 H 0"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     style="font-size:12px;overflow:visible;color-interpolation-filters:sRGB;fill:none;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:3"
+     id="g8131-0-9"
+     transform="matrix(5.5603084,0,0,2.8747285,935.43397,266.88092)">
+    <g
+       id="g8110-7-6">
+      <title
+         id="title8094-2-8">Socle de prise de courant avec protection enfant forme pour le sch�ma de position</title>
+      <g
+         transform="translate(0.12,-0.12)"
+         id="1-6-69-1">
+        <title
+           id="title8096-0-8">Socle de prise de courant avec protection enfant forme pour le sch�ma de position</title>
+        <g
+           id="2-8-35-5">
+          <title
+             id="title8098-3-2">Socle de prise de courant avec protection enfant forme pour le sch�ma de position</title>
+          <path
+             id="path8100-25-8"
+             class="st1"
+             d="M 8.27,1.19 A 4.72441,4.72441 -180 0 0 3.54,5.91 4.72441,4.72441 -180 0 0 8.27,10.64"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path8102-5-8"
+             class="st1"
+             d="m 8.27,10.64 v 0.94"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path8104-4-4"
+             class="st1"
+             d="M 8.27,0.24 V 1.18"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+          <path
+             id="path8106-4-7"
+             class="st1"
+             d="M 3.54,5.9 H 0"
+             inkscape:connector-curvature="0"
+             style="stroke:#000000;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="184.55635"
+     y="514.72742"
+     id="text10675"><tspan
+       sodipodi:role="line"
+       id="tspan10673"
+       x="184.55635"
+       y="551.22064"></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="520.91156"
+     y="507.92319"
+     id="text10679"><tspan
+       sodipodi:role="line"
+       id="tspan10677"
+       x="520.91156"
+       y="544.41638" /></text>
+  <style
+     id="style12079"
+     type="text/css"><![CDATA[
+		.st1 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st2 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st3 {fill:#000000;font-family:Calibri;font-size:0.333344em}
+		.st4 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]></style>
+  <g
+     style="font-size:12px;overflow:visible;color-interpolation-filters:sRGB;fill:none;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:3"
+     id="g12123"
+     transform="matrix(10.111635,0,0,15.207188,331.51193,515.54357)">
+    <g
+       style="font-size:12px;overflow:visible;color-interpolation-filters:sRGB;fill:none;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:3"
+       id="g16373"
+       transform="matrix(3.4040339,0,0,0.26642309,-58.029063,-32.274719)">
+      <g
+         id="g16351">
+        <title
+           id="title16332">Barette de terre</title>
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot16375"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           transform="matrix(0.02905258,0,0,0.24681936,7.2466582,-4.188562)"><flowRegion
+             id="flowRegion16377"><rect
+               id="rect16379"
+               width="87.364113"
+               height="54.35989"
+               x="605.72449"
+               y="64.067017" /></flowRegion><flowPara
+             id="flowPara16381">4</flowPara></flowRoot>        <flowRoot
+           xml:space="preserve"
+           id="flowRoot16375-8"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;overflow:visible;color-interpolation-filters:sRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-linecap:square;stroke-miterlimit:3"
+           transform="matrix(0.02905258,0,0,0.24681936,7.2550584,12.447748)"><flowRegion
+             id="flowRegion16377-4"><rect
+               id="rect16379-6"
+               width="87.364113"
+               height="54.35989"
+               x="605.72449"
+               y="64.067017" /></flowRegion><flowPara
+             id="flowPara16381-3">3</flowPara></flowRoot>        <flowRoot
+           xml:space="preserve"
+           id="flowRoot16375-2"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;overflow:visible;color-interpolation-filters:sRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-linecap:square;stroke-miterlimit:3"
+           transform="matrix(0.02905258,0,0,0.24681936,7.2550584,28.260728)"><flowRegion
+             id="flowRegion16377-7"><rect
+               id="rect16379-9"
+               width="87.364113"
+               height="54.35989"
+               x="605.72449"
+               y="64.067017" /></flowRegion><flowPara
+             id="flowPara16381-4">2</flowPara></flowRoot>        <flowRoot
+           xml:space="preserve"
+           id="flowRoot16375-9"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;overflow:visible;color-interpolation-filters:sRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-linecap:square;stroke-miterlimit:3"
+           transform="matrix(0.02905258,0,0,0.24681936,7.2550584,42.636164)"><flowRegion
+             id="flowRegion16377-5"><rect
+               id="rect16379-63"
+               width="87.364113"
+               height="54.35989"
+               x="605.72449"
+               y="64.067017" /></flowRegion><flowPara
+             id="flowPara16381-1">1</flowPara></flowRoot>        <flowRoot
+           xml:space="preserve"
+           id="flowRoot16375-6"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;overflow:visible;color-interpolation-filters:sRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-linecap:square;stroke-miterlimit:3"
+           transform="matrix(0.02905258,0,0,0.24681936,19.325386,-4.3235939)"><flowRegion
+             id="flowRegion16377-49"><rect
+               id="rect16379-1"
+               width="87.364113"
+               height="54.35989"
+               x="605.72449"
+               y="64.067017" /></flowRegion><flowPara
+             id="flowPara16381-30">4</flowPara></flowRoot>        <flowRoot
+           xml:space="preserve"
+           id="flowRoot16375-1"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;overflow:visible;color-interpolation-filters:sRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-linecap:square;stroke-miterlimit:3"
+           transform="matrix(0.02905258,0,0,0.24681936,19.325386,11.489386)"><flowRegion
+             id="flowRegion16377-0"><rect
+               id="rect16379-12"
+               width="87.364113"
+               height="54.35989"
+               x="605.72449"
+               y="64.067017" /></flowRegion><flowPara
+             id="flowPara16381-44">3</flowPara></flowRoot>        <flowRoot
+           xml:space="preserve"
+           id="flowRoot16375-66"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;overflow:visible;color-interpolation-filters:sRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-linecap:square;stroke-miterlimit:3"
+           transform="matrix(0.02905258,0,0,0.24681936,19.268983,28.260728)"><flowRegion
+             id="flowRegion16377-3"><rect
+               id="rect16379-69"
+               width="87.364113"
+               height="54.35989"
+               x="605.72449"
+               y="64.067017" /></flowRegion><flowPara
+             id="flowPara16381-36">2</flowPara></flowRoot>        <flowRoot
+           xml:space="preserve"
+           id="flowRoot16375-3"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;overflow:visible;color-interpolation-filters:sRGB;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-linecap:square;stroke-miterlimit:3"
+           transform="matrix(0.02905258,0,0,0.24681936,19.268983,42.636164)"><flowRegion
+             id="flowRegion16377-55"><rect
+               id="rect16379-4"
+               width="87.364113"
+               height="54.35989"
+               x="605.72449"
+               y="64.067017" /></flowRegion><flowPara
+             id="flowPara16381-47">1</flowPara></flowRoot>        <path
+           style="fill:none;stroke:#000000;stroke-width:0.07372168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 12.25525,219.1101 -0.04512,25.39587"
+           id="path16485"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.09116763px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 10.856476,244.98565 h 2.876573"
+           id="path16491"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </g>
+  <style
+     id="style12424"
+     type="text/css"><![CDATA[
+		.st1 {fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st2 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st3 {fill:#000000;font-family:Calibri;font-size:0.666641em}
+		.st4 {fill:#000000;font-family:Calibri;font-size:0.666664em}
+		.st5 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]></style>
+  <style
+     id="style16330"
+     type="text/css"><![CDATA[
+		.st1 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st2 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]></style>
+</svg>
