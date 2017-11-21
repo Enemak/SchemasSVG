@@ -9,7 +9,11 @@ import com.caverock.androidsvg.SVG;
 import com.caverock.androidsvg.SVGImageView;
 import com.caverock.androidsvg.SVGParseException;
 
+import uk.co.senab.photoview.PhotoViewAttacher;
+
 public class schema2 extends AppCompatActivity {
+
+    PhotoViewAttacher pAttacher;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -22,6 +26,8 @@ public class schema2 extends AppCompatActivity {
             SVG svg = SVG.getFromResource(this, R.raw.exemple2);
 
             SVGImageView svgImageView = new SVGImageView(this);
+            pAttacher = new PhotoViewAttacher(svgImageView);
+            pAttacher.update();
             svgImageView.setSVG(svg);
             svgImageView.setLayoutParams(
                     new ViewGroup.LayoutParams(
